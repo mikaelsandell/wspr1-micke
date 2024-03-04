@@ -28,7 +28,7 @@
 ?>
 
 <body style="background-color:  <?php echo $color;?>"> 
-    <h1>What a nice color :-)</h1>
+    <h1>What a nice color, isn't it :-)</h1>
     <a href="301.php?color=yellow">I choose yellow</a><br>
     <a href="301.php?color=blue">I choose blue</a>
 
